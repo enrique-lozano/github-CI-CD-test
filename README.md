@@ -1,6 +1,6 @@
 # AppTest
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1. A little change here. And another one (in other brach). Testststst
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1. A little change here. And another one (in other brach)
 
 ## Development server
 
