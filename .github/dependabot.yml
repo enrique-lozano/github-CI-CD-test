@@ -7,3 +7,8 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+
+    target-branch: development
+
+    commit-message:
+      prefix: "⬆️ Upgrade deps"
