@@ -9,3 +9,6 @@ updates:
       interval: "daily"
 
     target-branch: development
+
+    commit-message:
+      prefix: "⬆️ Upgrade deps"
