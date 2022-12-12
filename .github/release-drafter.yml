@@ -14,6 +14,7 @@ categories:
   - title: "🧰 Maintenance"
     label: "chore"
 change-template: "- $TITLE (#$NUMBER). Thanks to @$AUTHOR"
+exclude-contributors: ["enrique-lozano"]
 change-title-escapes: '\<*_&' # You can add # and @ to disable mentions, and add ` to disable code blocks.
 version-resolver:
   major:
