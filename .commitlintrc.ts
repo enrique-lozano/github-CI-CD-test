@@ -9,7 +9,11 @@ const Configuration: UserConfig = {
   // Any rules defined here will override rules from the extended config
   rules: {
     'subject-case': [2, 'always', ['sentencecase']],
-    'scope-enum': [2, 'always', ['UX/UI']],
+    'scope-enum': [
+      2,
+      'always',
+      ['ux/ui', 'security', 'literals', 'assets', 'accessibility'],
+    ],
   },
 };
 
